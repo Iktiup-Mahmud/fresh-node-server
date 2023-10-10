@@ -1,5 +1,6 @@
 const express = require('express');
 const cors = require('cors')
+//color for color into terminal 
 require('colors')
 require('dotenv').config()
 const jwt = require('jsonwebtoken')
